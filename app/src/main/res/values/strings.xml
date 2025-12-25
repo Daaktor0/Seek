@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Seek</string>
+    <string name="notification_channel_reminders">Reminders</string>
+    <string name="notification_channel_reminders_description">Gentle reminders for your job applications</string>
+</resources>
